@@ -35,7 +35,6 @@ public class IGNData {
     public void setMetadata(IGNVideoMetadata metadata) {
         this.metadata = metadata;
     }
-
     public List<String> getTags() {
         return tags;
     }
